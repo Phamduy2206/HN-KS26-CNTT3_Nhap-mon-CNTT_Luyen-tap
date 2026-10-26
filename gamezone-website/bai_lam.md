@@ -12,6 +12,8 @@
 ```shell
 PS C:\de-on-tap-game\starter-kit\gamezone-website> pwd
 PS C:\de-on-tap-game\starter-kit\gamezone-website> Get-ChildItem -Force -Recurse
+PS C:\de-on-tap-game\starter-kit\gamezone-website> mv .\cap_nhat.txt ".\docs"
+PS C:\de-on-tap-game\starter-kit\gamezone-website> mv .\logo_game_zone.png ".\media"
 PS C:\de-on-tap-game\starter-kit\gamezone-website> cp .\media\logo_game_zone.png ".\backup"
 PS C:\de-on-tap-game\starter-kit\gamezone-website> rm .\temp_207.tmp
 PS C:\de-on-tap-game\starter-kit\gamezone-website> cd docs
